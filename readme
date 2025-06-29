@@ -1,0 +1,11 @@
+Create a py env  :  python -m venv myenv
+
+Activate the env  :  myenv\Scripts\activate
+
+Install the dependencied  :  pip install -r requirements.txt
+
+Run the fastapi  :  uvicorn main:app 
+
+
+
+You can update the data as require.

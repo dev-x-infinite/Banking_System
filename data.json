@@ -1,7 +1,15 @@
 {
-    "anurag" : {"password" : "123" , "current_money" : 40 , "collateral_value" : 100} ,
 
-    "newton" : {"password" : "124" , "current_money" : 30 , "collateral_value" : 120}
+    "anurag": {"password": "1234", "current_money": 1000, "collateral_value": 100},
+
+    "arun": {"password": "1526", "current_money": 4000, "collateral_value": 120},
+
+    "arpit": {"password": "14578", "current_money": 12, "collateral_value": 456},
+
+    "ashish": {"password": "124789", "current_money": 14520, "collateral_value": 123456789},
+
+    "mayan": {"password": "7410", "current_money": 0, "collateral_value": 0}
 
 
+    
 }
